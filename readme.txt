@@ -55,23 +55,23 @@ When the widget is enabled in order to use that widget you need to go to 'Appear
 
 = Use of shortcode: = 
 
->*`[ttpv-recent]: Shows recent posts  depending on the options set from main Post Viewer Option page.*
+>*`[ttpv-recent]`: Shows recent posts  depending on the options set from main Post Viewer Option page.*
 
->*[ttpv-recent auths='1,2']: Shows posts by selected authors. Here Posts by user id 1 and 2 will be displayed.*
+>*[ttpv-recent auths='1,2']`: Shows posts by selected authors. Here Posts by user id 1 and 2 will be displayed.*
 
->*[ttpv-recent cats='1,2']: Shows posts from selected categories. Here Posts category id 1 and 2 will be displayed.*
+>*[ttpv-recent cats='1,2']`: Shows posts from selected categories. Here Posts category id 1 and 2 will be displayed.*
 
->*[ttpv-recent cats='1,2' auths='1,2']: Can be used this way to customise more.*
+>*[ttpv-recent cats='1,2' auths='1,2']`: Can be used this way to customise more.*
 
->*[ttpv-recent disp='thumbnail']: Display all posts with thumbnail*
+>*[ttpv-recent disp='thumbnail']`: Display all posts with thumbnail*
 
->*[ttpv-recent disp='list']: Display all posts as list.*
+>*[ttpv-recent disp='list']`: Display all posts as list.*
 
->*[ttpv-recent posts='4']: Displays 4 posts.*
+>*[ttpv-recent posts='4']`: Displays 4 posts.*
 
->*[ttpv-recent title='Most Recent Posts']: Display “Most Recent Posts” as title in recent post area.*
+>*[ttpv-recent title='Most Recent Posts']`: Display '"Most Recent Posts" as title in recent post area.*
 
->*[ttpv-recent exrpt='yes' exrptlen='10']: Displays posts with excerpts enabled and excerpt size is set to 10 words.*
+>*[ttpv-recent exrpt='yes' exrptlen='10']`: Displays posts with excerpts enabled and excerpt size is set to 10 words.*
 
 These options can be used in any combination. Any values that will be set in shortcode will override the values set from main option page. Otherwise it will use the values set from main option page as default values.
 
@@ -92,7 +92,7 @@ These options can be used in any combination. Any values that will be set in sho
 
 >*`[ttpv- mostpopular posts='4']`: Displays 4 posts.*
 
->*`[ttpv- mostpopular title='Most Recent Posts']`: Display “Most Recent Posts” as title in recent post area.*
+>*`[ttpv- mostpopular title='Most Recent Posts']`: Display "Most Recent Posts" as title in recent post area.*
 
 >*`[ttpv- mostpopular exrpt='yes' exrptlen='10']`: Displays posts with excerpts enabled and excerpt size is set to 10 words.*
 
