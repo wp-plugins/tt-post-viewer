@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Rashed Latif
+Contributors: rashed.latif
 Tags: post, recent post, popular post, most popular post, most commented post, related post, featured post, post by author, post by category, post by date, widget, thumbnail, shortcode, excerpt, latest, recent, commented, related, popular, sidebar, sidebar widget 
 Requires at least: 3.0.1
 Tested up to: 3.8.1
