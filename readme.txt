@@ -16,7 +16,7 @@ TT Post Viewer is a plugin that lets you display Most recent posts, Most popular
 *This plugin is checked on different popular themes and it works fine in most themes. In some themes you may need to tweak style sheet to make it look better. Few more features will be added in the future versions.*
 
 = How to Use: =
-TT Post viewer option page can be accessed by going to ‘Settings’ and then ‘Post Viewer Options’.
+TT Post viewer option page can be accessed by going to 'Settings' and then 'Post Viewer Options'.
 There are 9 sections in the option page.
 
 * General Settings
@@ -42,7 +42,8 @@ This section is to set the thumbnail size that will be displayed in widget area 
 	* *Display posts as*: Select between list view or thumbnail view.
 	* *By author*: Select one or multiple authors.
 	* *By Category*: Select one or multiple Categories.
-When the widget is enabled in order to use that widget you need to go to ‘Appearance’ -> ‘Widgets’ and then select “TTPV: Recent Posts” widget and drag and drop to the widget area. Once the it is placed in the widget area all the values that are set for this widget in the Post Viewer Options page will be available here as well. You can also change the values or options from the widget page.  Any values that will be set from widget page will override the values set from Post Viewer main option page.
+
+When the widget is enabled in order to use that widget you need to go to 'Appearance' -> 'Widgets' and then select "TTPV: Recent Posts" widget and drag and drop to the widget area. Once the it is placed in the widget area all the values that are set for this widget in the Post Viewer Options page will be available here as well. You can also change the values or options from the widget page.  Any values that will be set from widget page will override the values set from Post Viewer main option page.
 
 * **Enable Shortcode**: By checking this shortcode will be enable for recent posts. Anywhere in the post shortcode can be placed. Basic shortcode for recent post is [ttpv-recent]. Few more options will be displayed when this checkbox will be selected.
 	* *Number of posts*: Set the number of posts to be displayed.
@@ -54,23 +55,23 @@ When the widget is enabled in order to use that widget you need to go to ‘Appear
 
 = Use of shortcode: = 
 
->*`[ttpv-recent]`: Shows recent posts  depending on the options set from main Post Viewer Option page.*
+>*`[ttpv-recent]: Shows recent posts  depending on the options set from main Post Viewer Option page.*
 
->*`[ttpv-recent auths=’1,2’]`: Shows posts by selected authors. Here Posts by user id 1 and 2 will be displayed.*
+>*[ttpv-recent auths='1,2']: Shows posts by selected authors. Here Posts by user id 1 and 2 will be displayed.*
 
->*`[ttpv-recent cats=’1,2’]`: Shows posts from selected categories. Here Posts category id 1 and 2 will be displayed.*
+>*[ttpv-recent cats='1,2']: Shows posts from selected categories. Here Posts category id 1 and 2 will be displayed.*
 
->*`[ttpv-recent cats=’1,2’ auths=’1,2’]`: Can be used this way to customise more.*
+>*[ttpv-recent cats='1,2' auths='1,2']: Can be used this way to customise more.*
 
->*`[ttpv-recent disp=’thumbnail’]`: Display all posts with thumbnail*
+>*[ttpv-recent disp='thumbnail']: Display all posts with thumbnail*
 
->*`[ttpv-recent disp=’list’]`: Display all posts as list.*
+>*[ttpv-recent disp='list']: Display all posts as list.*
 
->*`[ttpv-recent posts=’4’]`: Displays 4 posts.*
+>*[ttpv-recent posts='4']: Displays 4 posts.*
 
->*`[ttpv-recent title=’Most Recent Posts’]`: Display “Most Recent Posts” as title in recent post area.*
+>*[ttpv-recent title='Most Recent Posts']: Display “Most Recent Posts” as title in recent post area.*
 
->*`[ttpv-recent exrpt=’yes’ exrptlen=’10’]`: Displays posts with excerpts enabled and excerpt size is set to 10 words.*
+>*[ttpv-recent exrpt='yes' exrptlen='10']: Displays posts with excerpts enabled and excerpt size is set to 10 words.*
 
 These options can be used in any combination. Any values that will be set in shortcode will override the values set from main option page. Otherwise it will use the values set from main option page as default values.
 
@@ -79,21 +80,21 @@ These options can be used in any combination. Any values that will be set in sho
 **Some example:**
 >*`[ttpv-[ttpv-mostpopular]`: Shows recent posts  depending on the options set from main Post Viewer Option page.*
 
->*`[ttpv- mostpopular auths=’1,2’]`: Shows posts by selected authors. Here Posts by user id 1 and 2 will be displayed.*
+>*`[ttpv- mostpopular auths='1,2']`: Shows posts by selected authors. Here Posts by user id 1 and 2 will be displayed.*
 
->*`[ttpv- mostpopular cats=’1,2’]` : Shows posts from selected categories. Here Posts category id 1 and 2 will be displayed.*
+>*`[ttpv- mostpopular cats='1,2']` : Shows posts from selected categories. Here Posts category id 1 and 2 will be displayed.*
 
->*`[ttpv- mostpopular cats=’1,2’ auths=’1,2’]`: Can be used this way to customise more.*
+>*`[ttpv- mostpopular cats='1,2' auths='1,2']`: Can be used this way to customise more.*
 
->*`[ttpv- mostpopular disp=’thumbnail’]`: Display all posts with thumbnail*
+>*`[ttpv- mostpopular disp='thumbnail']`: Display all posts with thumbnail*
 
->*`[ttpv- mostpopular disp=’list’]`: Display all posts as list.*
+>*`[ttpv- mostpopular disp='list']`: Display all posts as list.*
 
->*`[ttpv- mostpopular posts=’4’]`: Displays 4 posts.*
+>*`[ttpv- mostpopular posts='4']`: Displays 4 posts.*
 
->*`[ttpv- mostpopular title=’Most Recent Posts’]`: Display “Most Recent Posts” as title in recent post area.*
+>*`[ttpv- mostpopular title='Most Recent Posts']`: Display “Most Recent Posts” as title in recent post area.*
 
->*`[ttpv- mostpopular exrpt=’yes’ exrptlen=’10’]`: Displays posts with excerpts enabled and excerpt size is set to 10 words.*
+>*`[ttpv- mostpopular exrpt='yes' exrptlen='10']`: Displays posts with excerpts enabled and excerpt size is set to 10 words.*
 
 = 4. Most Commented Posts: = Similar use as the previous options. . Only when using shortcode you need to type `[ttpv-mostcommented]`.
 
@@ -103,7 +104,7 @@ These options can be used in any combination. Any values that will be set in sho
 
 = 7. Related Posts: = similar use as previous options. Only difference is there is no option to select author or category. Widgets and shortcodes will only be used in single page. For shortcodes you need to type `[ttpv-related]`.
 
-= 8. Posts by Category: = This is also similar to the other ones but it doesn’t have the option to select author. Apart from that everything is similar. For shortcodes you need to type `[ttpv-category]`.
+= 8. Posts by Category: = This is also similar to the other ones but it doesn't have the option to select author. Apart from that everything is similar. For shortcodes you need to type `[ttpv-category]`.
 = 9. Posts by Date: = This one is also used exactly same as other options. In addition it have 2 additional fields to select the date range. One is for the start date and other is for end date. So the posts which are posted between that date range will be displayed. For shortcodes you need to type `[ttpv-bydate]`.
 
 **Example:** 
@@ -115,7 +116,7 @@ These options can be used in any combination. Any values that will be set in sho
 
 1. Unzip & upload the plugin directory inside your /wp-content/plugins/ directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to 'Settings' and ‘Post Viewer Options’
+3. Go to 'Settings' and ‘Post Viewer Options'
 
 
 
