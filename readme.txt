@@ -96,11 +96,11 @@ These options can be used in any combination. Any values that will be set in sho
 
 >*`[ttpv-mostpopular exrpt='yes' exrptlen='10']`: Displays posts with excerpts enabled and excerpt size is set to 10 words.*
 
-= 4. Most Commented Posts: = Similar use as the previous options. . Only when using shortcode you need to type `[ttpv-mostcommented]`.
+= 4. Most Commented Posts: = Similar use as the previous options. Only when using shortcode you need to type `[ttpv-mostcommented]`.
 
-= 5. Featured Posts: = Similar use as the previous options. . Only when using shortcode you need to type `[ttpv-featured]`.
+= 5. Featured Posts: = Similar use as the previous options. *When this plugin is activated a check box is added in post edit page so any post can be selected as a featured post. For whichever post this check box is selected that will appear in featured post list*. When using shortcode you need to type `[ttpv-featured]`.
 
-= 6. Posts by Authors: = Similar use as the previous options. . Only when using shortcode you need to type `[ttpv-author]`.
+= 6. Posts by Authors: = Similar use as the previous options. Only when using shortcode you need to type `[ttpv-author]`.
 
 = 7. Related Posts: = similar use as previous options. Only difference is there is no option to select author or category. Widgets and shortcodes will only be used in single page. For shortcodes you need to type `[ttpv-related]`.
 
