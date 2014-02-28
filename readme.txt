@@ -3,8 +3,8 @@
 Plugin Name: TT Post Viewer
 Plugin URI: http://www.knowhowto.com.au/use-tt-post-viewer-great-plugin-wordpress/
 Description: Display popular posts/recent posts/most commented posts/related posts/featured posts/posts by author/posts by category/posts by date
+Tags: post, widget, thumbnail, shortcode, excerpt, latest, recent, commented, related, popular, sidebar, sidebar widget, plugin
 Contributors: rashed.latif
-Tags: post, recent post, popular post, most popular post, most commented post, related post, featured post, post by author, post by category, post by date, widget, thumbnail, shortcode, excerpt, latest, recent, commented, related, popular, sidebar, sidebar widget
 Author: Rashed Latif
 Author URI: http://www.knowhowto.com.au/rashed-latif/
 Donate link: http://www.knowhowto.com.au/donate
