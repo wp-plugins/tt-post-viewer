@@ -1,7 +1,7 @@
 === TT Post Viewer ===
 Contributors: rashed.latif
 Donate link: http://www.knowhowto.com.au/donate
-Tags: post, widget, thumbnail, shortcode, excerpt, latest, recent, commented, related, popular, sidebar, sidebar widget, plugin
+Tags: post, widget, thumbnail, shortcode, excerpt, latest, recent, commented, related, popular, sidebar, sidebar widget, plugin, most commented, most recent, related post, most popular post, post by date, post by author, post by category, list
 Requires at least: 3.0.1
 Tested up to: 3.8.1
 Stable tag: 1.0
