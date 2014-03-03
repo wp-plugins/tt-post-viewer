@@ -2,12 +2,14 @@
 
 /*
   Plugin Name: TT Post Viewer Plugin
-  Plugin URI: http://www.knowhowto.com.au
+  Plugin URI: http://www.knowhowto.com.au/use-tt-post-viewer-great-plugin-wordpress
   Description: Displays Recent Posts, Most Popular Posts, Most Commented Posts, Featured Posts, Related Posts, Posts by Authors, Posts by Categories, Posts by Date. Posts can be displayed in widget area or post or page content area. 
+  Tags: post, posts, widget, thumbnail, shortcode, excerpt, latest, recent, commented, related, popular, sidebar, sidebar widget, plugin, related post, popular post, post by date, post by author, post by category, list, comments, images, image
   Author: Rashed Latif
+  Author URI: http://www.knowhowto.com.au/rashed-latif
+  Donate link: http://www.knowhowto.com.au/donate
   Version: 1.0
-  Author URI: http://www.knowhowto.com.au
- */
+*/
 
 error_reporting(0); 
 include dirname( __FILE__ ) .'/includes.php';
