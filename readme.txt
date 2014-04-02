@@ -12,6 +12,8 @@ Plugin to display posts in different ways.
 
 == Description ==
 
+*I Appreciate if you please give reviews and any suggestions after using this plugin.*
+
 TT Post Viewer is a plugin that lets you display Most recent posts, Most popular posts, Most commented posts, Related Posts, Featured Posts, Posts by author, Posts by category, Posts by date in widget area and also can be displayed in post area by using short codes.  Posts can be displayed as List or with thumbnail. You can also select whether you want the excerpt to be displayed or not and you can also set the number of words to display.
 
 *This plugin is checked on different popular themes and it works fine in most themes. In some themes you may need to tweak style sheet to make it look better. Few more features will be added in the future versions.*
