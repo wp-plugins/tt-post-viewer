@@ -18,7 +18,7 @@ TT Post Viewer is a plugin that lets you display Most recent posts, Most popular
 
 *This plugin is checked on different popular themes and it works fine in most themes. In some themes you may need to tweak style sheet to make it look better. For some themes it doesn't install. So if you experience any difficulties at the time of installation please try to install on a different theme for test purpose to make sure its the theme causing this issue. Other than that it works absolutely fine with the latest version of wordpress. Few more features will be added in the future versions.*
 
-Check the [TT Post Viewer](http://www.technologiestoday.com.au/guide-to-use-tt-post-viewer-plugin-for-wordpress-2) plugin page for more information and installation guide.
+Check the [TT Post Viewer](http://www.technologiestoday.com.au/guide-to-use-tt-post-viewer-plugin-for-wordpress-2/) plugin page for more information and installation guide.
 
 == Installation ==
 
